@@ -32,3 +32,4 @@ C:\Users\USER069\source\repos\freelans\freelans\obj\Debug\net8.0\refint\freelans
 C:\Users\USER069\source\repos\freelans\freelans\obj\Debug\net8.0\freelans.pdb
 C:\Users\USER069\source\repos\freelans\freelans\obj\Debug\net8.0\freelans.genruntimeconfig.cache
 C:\Users\USER069\source\repos\freelans\freelans\obj\Debug\net8.0\ref\freelans.dll
+C:\Users\USER069\source\repos\freelans\freelans\obj\Debug\net8.0\freelans.sourcelink.json
